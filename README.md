@@ -66,7 +66,7 @@ park-space-rental/
     │   ├── context/           # React context (Auth)
     │   ├── pages/             # Page components
     │   ├── services/          # API services
-    │   └── types/             # TypeScript types
+    │   └── types/             # JavaScript types
     └── package.json
 ```
 
